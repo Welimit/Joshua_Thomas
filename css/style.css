@@ -210,7 +210,7 @@ img{
         display: none;
     }
     .myslide{
-        height: 830px;
+        height: 800px;
     }
     .myslide #allow{
         display: block;
@@ -324,12 +324,12 @@ img{
 }
 @media screen and (MAx-width: 508px){
     .outline{
-        height: 200vh;
+        height: 170vh;
     }
 }
 @media screen and (max-width: 474px){
     .outline{
-        height: 200vh;
+        height: 170vh;
     }
     .portfolio img{
         padding: 10px 30px;
