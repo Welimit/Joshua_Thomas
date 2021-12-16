@@ -329,7 +329,7 @@ img{
 }
 @media screen and (max-width: 474px){
     .outline{
-        height: 170vh;
+        height: 140vh;
     }
     .portfolio img{
         padding: 10px 30px;
